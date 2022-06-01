@@ -1,0 +1,21 @@
+{
+  "name": "hw41",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "Danyla Grekov",
+  "license": "ISC",
+  "dependencies": {
+    "loadsh": "0.0.4",
+    "prettier": "^2.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  }
+}
